@@ -1,6 +1,6 @@
 var s=[
 "gin.htm",
-"http://freebitco.in/?r=135139",
+"http://freebitco.in/?r=2025386",
 "http://dailybitcoins.org/index.php?aff=9fb5ef25df8f3dc11cbf6a7c967d235d",
 "http://hotswap.co/?id=369693",
 "http://www.minifrij.pw?ref=1McYLx1YbnUZ5fRPw5Y24PBBQVutf89U6m",
