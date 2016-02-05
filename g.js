@@ -3,7 +3,6 @@ var s=[
 "http://freebitco.in/?r=2025386",
 "http://bitcoinzebra.com/?ref=6c5607377afc",
 "http://www.weekendbitcoin.com/?ref=283875",
-"http://www.minifrij.pw?ref=1McYLx1YbnUZ5fRPw5Y24PBBQVutf89U6m",
 "http://www.8coin.me/?r=7T8dOw&a=",
 "http://www.getbitcoinsquick.com/?r=7T8dOw&a=",
 "http://www.bbitcoin.me/?r=7T8dOw&a=",
