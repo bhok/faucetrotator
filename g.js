@@ -12,7 +12,7 @@ var s=[
 "http://claimbtc.com/?r=a8676ec057",
 "http://www.bitcoinsworld.org/?ref=20633",
 "http://www.bitcoinaliens.com/faucet/?ref=303916",
-"http://www.earn-free-bitcoins.com/?r=7T8dOw&a=",
+"http://crypto-cash.github.io/faucetrotator/ads.htm",
 "http://www.freebitcoinsfast.com/?r=7T8dOw&a=",
 "http://www.freebitcoin.mobi/?r=7T8dOw&a=",
 "http://www.freebitcoin.ws/?r=7T8dOw&a=",
